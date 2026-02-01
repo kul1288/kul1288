@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Kuldeep Singh
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR4OG5pYmdrbnQ5NXY2dzVtdmx1MnJycTVtNWloMTkwNHN6Y28xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="100"/>
-</div>
-
 🚀 **Senior Full Stack Engineer | Cloud Architect | AWS Certified | FinTech & Banking Domain Expert**  
 
 I’m a **12+ years experienced Full Stack Developer** specializing in building **high-performance, scalable, cloud-native applications**. I have led enterprise-grade projects for **UK banking clients**, designed **microservice architectures**, and implemented **CI/CD pipelines** with strong DevOps practices.  
