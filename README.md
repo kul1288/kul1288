@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Kuldeep Singh  
+# 👋 Hi, I'm Kuldeep Singh
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXR4OG5pYmdrbnQ5NXY2dzVtdmx1MnJycTVtNWloMTkwNHN6Y28xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="100"/>
+</div>
 
 🚀 **Senior Full Stack Engineer | Cloud Architect | AWS Certified | FinTech & Banking Domain Expert**  
 
@@ -14,7 +18,7 @@ I love solving **system design challenges**, optimizing backend performance, and
 - Enterprise-scale **Node.js + TypeScript** applications  
 - **Microservices architecture** with Kafka & async communication  
 - **Cloud-native deployments** using AWS & Azure  
-- CI/CD automation with **Docker, GitHub Actions, Azure DevOps**  
+- CI/CD automation with **Docker, GitHub Actions, AWS, Azure DevOps**  
 
 👯 **Looking to collaborate on**  
 - Open-source **backend frameworks & tooling**  
@@ -26,8 +30,7 @@ I love solving **system design challenges**, optimizing backend performance, and
 - **Advanced Kubernetes orchestration**  
 - Observability tools (Prometheus, Grafana, OpenTelemetry)  
 
-🌱 **Currently learning**  
-- **Event Sourcing & CQRS**  
+🌱 **Currently learning**   
 - Advanced **cloud cost optimization strategies**  
 - **AI-powered application integration**  
 - High-scale **system design patterns**  
@@ -74,16 +77,6 @@ I love solving **system design challenges**, optimizing backend performance, and
 
 ---
 
-## 📊 GitHub Stats  
-
-![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
 ## 🏆 Achievements  
 
 - ✅ AWS Certified Solutions Architect  
@@ -95,9 +88,5 @@ I love solving **system design challenges**, optimizing backend performance, and
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
----
-
-⭐️ *If you like my work, consider starring my repositories and connecting with me!*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsinghprogrammer/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeepsingh.singh77@gmail.com)  
